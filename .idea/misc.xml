@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/drawable/ic_arrow_right.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/drawable/ic_date_small.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/drawable/ic_menu_all.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/activity_all.xml" value="0.1796875" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/activity_edit.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/adapter_task.xml" value="0.39365671641791045" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/adapter_task_complete.xml" value="0.1796875" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/fragment_add.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/fragment_all.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/fragment_detail.xml" value="0.4353182751540041" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/fragment_home.xml" value="0.2784503631961259" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/layout/fragment_update.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/M Fikri Setiawan/AndroidStudioProjects/TugasKu/app/src/main/res/menu/menu_task_all.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
